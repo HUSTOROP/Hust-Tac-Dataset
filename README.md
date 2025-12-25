@@ -1,3 +1,5 @@
+<img width="2598" height="1063" alt="fig5" src="https://github.com/user-attachments/assets/666ff2a3-e834-4236-9ce5-9678c2416ee0" />
+
 This dataset was collected using a GelSight tactile sensor and consists of tactile data capturing surface micro-defects. It includes four categories—Normal, Bump, Pit, and Scratch—with a total of 3,949 samples.
 
  
